@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\bin\Debug\net6.0\5TTI_ClaudeMael_Tableaux.exe
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\bin\Debug\net6.0\5TTI_ClaudeMael_Tableaux.deps.json
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\bin\Debug\net6.0\5TTI_ClaudeMael_Tableaux.runtimeconfig.json
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\bin\Debug\net6.0\5TTI_ClaudeMael_Tableaux.dll
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\bin\Debug\net6.0\5TTI_ClaudeMael_Tableaux.pdb
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\5TTI_ClaudeMael_Tableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\5TTI_ClaudeMael_Tableaux.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\5TTI_ClaudeMael_Tableaux.AssemblyInfo.cs
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\5TTI_ClaudeMael_Tableaux.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\5TTI_ClaudeMael_Tableaux.dll
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\refint\5TTI_ClaudeMael_Tableaux.dll
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\5TTI_ClaudeMael_Tableaux.pdb
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\5TTI_ClaudeMael_Tableaux.genruntimeconfig.cache
+C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Tableaux\obj\Debug\net6.0\ref\5TTI_ClaudeMael_Tableaux.dll
