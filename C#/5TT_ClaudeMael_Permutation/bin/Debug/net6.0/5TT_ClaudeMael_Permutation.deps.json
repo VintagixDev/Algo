@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "5TT_ClaudeMael_Permutation/1.0.0": {
+        "runtime": {
+          "5TT_ClaudeMael_Permutation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5TT_ClaudeMael_Permutation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

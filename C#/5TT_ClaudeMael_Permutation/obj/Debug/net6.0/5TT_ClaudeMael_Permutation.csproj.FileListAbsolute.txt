@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\bin\Debug\net6.0\5TT_ClaudeMael_Permutation.exe
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\bin\Debug\net6.0\5TT_ClaudeMael_Permutation.deps.json
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\bin\Debug\net6.0\5TT_ClaudeMael_Permutation.runtimeconfig.json
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\bin\Debug\net6.0\5TT_ClaudeMael_Permutation.dll
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\bin\Debug\net6.0\5TT_ClaudeMael_Permutation.pdb
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\5TT_ClaudeMael_Permutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\5TT_ClaudeMael_Permutation.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\5TT_ClaudeMael_Permutation.AssemblyInfo.cs
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\5TT_ClaudeMael_Permutation.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\5TT_ClaudeMael_Permutation.dll
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\refint\5TT_ClaudeMael_Permutation.dll
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\5TT_ClaudeMael_Permutation.pdb
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\5TT_ClaudeMael_Permutation.genruntimeconfig.cache
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Permutation\obj\Debug\net6.0\ref\5TT_ClaudeMael_Permutation.dll
