@@ -12,3 +12,17 @@ C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\refint\5T
 C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.pdb
 C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.genruntimeconfig.cache
 C:\Users\230622\Desktop\c#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\ref\5TTI_ClaudeMael_Mastermind.dll
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\bin\Debug\net6.0\5TTI_ClaudeMael_Mastermind.exe
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\bin\Debug\net6.0\5TTI_ClaudeMael_Mastermind.deps.json
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\bin\Debug\net6.0\5TTI_ClaudeMael_Mastermind.runtimeconfig.json
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\bin\Debug\net6.0\5TTI_ClaudeMael_Mastermind.dll
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\bin\Debug\net6.0\5TTI_ClaudeMael_Mastermind.pdb
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.AssemblyInfoInputs.cache
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.AssemblyInfo.cs
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.csproj.CoreCompileInputs.cache
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.dll
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\refint\5TTI_ClaudeMael_Mastermind.dll
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.pdb
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\5TTI_ClaudeMael_Mastermind.genruntimeconfig.cache
+H:\C#\Algo\C#\5TTI_ClaudeMael_Mastermind\obj\Debug\net6.0\ref\5TTI_ClaudeMael_Mastermind.dll

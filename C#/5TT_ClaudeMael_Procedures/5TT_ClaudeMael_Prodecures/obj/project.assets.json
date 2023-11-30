@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#\\Algo\\C#\\5TTI_ClaudeMael_Mastermind\\5TTI_ClaudeMael_Mastermind.csproj",
-      "projectName": "5TTI_ClaudeMael_Mastermind",
-      "projectPath": "H:\\C#\\Algo\\C#\\5TTI_ClaudeMael_Mastermind\\5TTI_ClaudeMael_Mastermind.csproj",
+      "projectUniqueName": "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Procedures\\5TT_ClaudeMael_Prodecures\\5TT_ClaudeMael_Prodecures.csproj",
+      "projectName": "5TT_ClaudeMael_Prodecures",
+      "projectPath": "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Procedures\\5TT_ClaudeMael_Prodecures\\5TT_ClaudeMael_Prodecures.csproj",
       "packagesPath": "C:\\Users\\230622\\.nuget\\packages\\",
-      "outputPath": "H:\\C#\\Algo\\C#\\5TTI_ClaudeMael_Mastermind\\obj\\",
+      "outputPath": "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Procedures\\5TT_ClaudeMael_Prodecures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

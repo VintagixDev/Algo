@@ -87,11 +87,11 @@ namespace _5TTI_ClaudeMael_Mastermind
                         Console.WriteLine("B "+i);
                         if (tempCombinaison[i] != userCombinaison[i])
                         {
-                            pionsMalPlaces++;
                             for(int removeIndex = 0; removeIndex < 4; removeIndex++) // BUG
                             {
                                 if (combinaison[removeIndex] == userCombinaison[i])
                                 {
+                                    pionsMalPlaces++;
                                     tempCombinaison[removeIndex] = 0;
                                 }
                             }
@@ -125,7 +125,7 @@ namespace _5TTI_ClaudeMael_Mastermind
         {
             Console.WriteLine(question);
             string nUser = Console.ReadLine();
-                while (!byte.TryParse(nUser, out color) && (color > 0 && color < 7))
+                while (!byte.TryParse(nUser, out color) && !(color > 0 && color < 7))
                 {
                     Console.WriteLine("Entrée incorrecte, \n" + question);
                     nUser = Console.ReadLine();

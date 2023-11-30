@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\bin\Debug\net6.0\5TT_ClaudeMael_Prodecures.exe
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\bin\Debug\net6.0\5TT_ClaudeMael_Prodecures.deps.json
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\bin\Debug\net6.0\5TT_ClaudeMael_Prodecures.runtimeconfig.json
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\bin\Debug\net6.0\5TT_ClaudeMael_Prodecures.dll
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\bin\Debug\net6.0\5TT_ClaudeMael_Prodecures.pdb
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\5TT_ClaudeMael_Prodecures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\5TT_ClaudeMael_Prodecures.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\5TT_ClaudeMael_Prodecures.AssemblyInfo.cs
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\5TT_ClaudeMael_Prodecures.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\5TT_ClaudeMael_Prodecures.dll
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\refint\5TT_ClaudeMael_Prodecures.dll
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\5TT_ClaudeMael_Prodecures.pdb
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\5TT_ClaudeMael_Prodecures.genruntimeconfig.cache
+C:\Users\230622\Desktop\5TT_ClaudeMael_Procedures\5TT_ClaudeMael_Prodecures\obj\Debug\net6.0\ref\5TT_ClaudeMael_Prodecures.dll
