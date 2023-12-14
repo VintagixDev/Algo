@@ -1,0 +1,14 @@
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\bin\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.exe
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\bin\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.deps.json
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\bin\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.runtimeconfig.json
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\bin\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.dll
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\bin\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.pdb
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.AssemblyInfoInputs.cache
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.AssemblyInfo.cs
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.csproj.CoreCompileInputs.cache
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.dll
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\refint\Ce1UAA11_2023_ClaudeMael.dll
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.pdb
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\Ce1UAA11_2023_ClaudeMael.genruntimeconfig.cache
+C:\Users\230622\source\repos\Ce1UAA11_2023_ClaudeMael\obj\Debug\net6.0\ref\Ce1UAA11_2023_ClaudeMael.dll
