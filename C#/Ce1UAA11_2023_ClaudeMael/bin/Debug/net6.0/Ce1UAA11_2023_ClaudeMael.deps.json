@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ce1UAA11_2023_ClaudeMael/1.0.0": {
+        "runtime": {
+          "Ce1UAA11_2023_ClaudeMael.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ce1UAA11_2023_ClaudeMael/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
