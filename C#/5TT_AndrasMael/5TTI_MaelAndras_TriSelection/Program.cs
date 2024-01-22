@@ -4,28 +4,25 @@
     {
         static void Main(string[] args)
         {
+
+            // instances
             Methodes methodes = new Methodes();
+            SortingAlgorithms algos = new SortingAlgorithms();
+
+            // tableau random
             int[] table = methodes.TableauRandom(5);
-            int replaceValue;
-            int replaceIndex;
-            Console.WriteLine(string.Join(", ", table)+ "\n-------------");
-            for (int i = 0; i <= table.Length-2; i++) {
-                replaceIndex = i;
-                replaceValue = table[i];
-                for(int checkIndex = i+1; checkIndex <= table.Length-1; checkIndex++)
-                {
-                    if(table[checkIndex] < replaceValue)
-                    {
-                        replaceValue = table[checkIndex];
-                        replaceIndex = checkIndex;
-                    }
-                }
-                if(replaceIndex != i)
-                {
-                    table[replaceIndex] = table[i];
-                    table[i] = replaceValue;
-                }
-            }
+
+            Console.WriteLine(string.Join(", ", table) + "\n-------------");
+
+            //algos.TriParSelection(ref table);
+
+            //algos.TriIntuitif(ref table);
+
+            //algos.TriABulle(ref table);
+
+            algos.TriShell(ref table);
+
+            // résultat final
             Console.WriteLine(methodes.Concatene(table));
         }
     }
