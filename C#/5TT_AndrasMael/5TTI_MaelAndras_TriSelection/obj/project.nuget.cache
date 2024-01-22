@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aJvgYliarLFx5EKEliE6AjlGKb6ylNhJ8Aeju71PCdZx7iqPbWwNFBdW38u7f0YTZeQfdLtdvoIMoTBp/OMDRw==",
+  "dgSpecHash": "QsBQ6+wN0s8Wu8C2y5mJVx9cXqgTmtL5gUmOwVuebzUG2lXQUkyV+JhGuX9jR5/wEBnE5qYP04FhjwJMRNOj8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\230622\\Desktop\\5TT_AndrasMael\\5TTI_MaelAndras_TriSelection\\5TTI_MaelAndras_TriSelection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Vintagix\\Desktop\\école\\Algo\\C#\\5TT_AndrasMael\\5TTI_MaelAndras_TriSelection\\5TTI_MaelAndras_TriSelection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vintagix\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Vintagix\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Vintagix\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Vintagix\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
