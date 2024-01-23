@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\bin\Debug\net6.0\5TTI_MaelAndras_TriSelection.exe
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\bin\Debug\net6.0\5TTI_MaelAndras_TriSelection.deps.json
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\bin\Debug\net6.0\5TTI_MaelAndras_TriSelection.runtimeconfig.json
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\bin\Debug\net6.0\5TTI_MaelAndras_TriSelection.dll
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\bin\Debug\net6.0\5TTI_MaelAndras_TriSelection.pdb
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\5TTI_MaelAndras_TriSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\5TTI_MaelAndras_TriSelection.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\5TTI_MaelAndras_TriSelection.AssemblyInfo.cs
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\5TTI_MaelAndras_TriSelection.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\5TTI_MaelAndras_TriSelection.dll
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\refint\5TTI_MaelAndras_TriSelection.dll
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\5TTI_MaelAndras_TriSelection.pdb
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\5TTI_MaelAndras_TriSelection.genruntimeconfig.cache
+C:\Users\230622\Desktop\5TT_AndrasMael\5TTI_MaelAndras_TriSelection\obj\Debug\net6.0\ref\5TTI_MaelAndras_TriSelection.dll
