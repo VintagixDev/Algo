@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\bin\Debug\net6.0\5TT_ClaudeMael_Matrice.exe
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\bin\Debug\net6.0\5TT_ClaudeMael_Matrice.deps.json
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\bin\Debug\net6.0\5TT_ClaudeMael_Matrice.runtimeconfig.json
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\bin\Debug\net6.0\5TT_ClaudeMael_Matrice.dll
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\bin\Debug\net6.0\5TT_ClaudeMael_Matrice.pdb
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\5TT_ClaudeMael_Matrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\5TT_ClaudeMael_Matrice.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\5TT_ClaudeMael_Matrice.AssemblyInfo.cs
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\5TT_ClaudeMael_Matrice.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\5TT_ClaudeMael_Matrice.dll
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\refint\5TT_ClaudeMael_Matrice.dll
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\5TT_ClaudeMael_Matrice.pdb
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\5TT_ClaudeMael_Matrice.genruntimeconfig.cache
+C:\Users\230622\Desktop\Matrices\5TT_ClaudeMael_Matrice\obj\Debug\net6.0\ref\5TT_ClaudeMael_Matrice.dll
