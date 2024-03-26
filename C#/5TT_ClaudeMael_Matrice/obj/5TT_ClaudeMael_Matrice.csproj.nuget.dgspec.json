@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\230622\\Desktop\\Matrices\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj": {}
+    "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\230622\\Desktop\\Matrices\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj": {
+    "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\230622\\Desktop\\Matrices\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj",
+        "projectUniqueName": "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj",
         "projectName": "5TT_ClaudeMael_Matrice",
-        "projectPath": "C:\\Users\\230622\\Desktop\\Matrices\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj",
+        "projectPath": "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Matrice\\5TT_ClaudeMael_Matrice.csproj",
         "packagesPath": "C:\\Users\\230622\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\230622\\Desktop\\Matrices\\5TT_ClaudeMael_Matrice\\obj\\",
+        "outputPath": "C:\\Users\\230622\\Desktop\\5TT_ClaudeMael_Matrice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -44,19 +44,28 @@ namespace _5TT_ClaudeMael_Matrice
             return addition;
         }
 
-        public bool MultiplierMatrices(int[,] firstMatrice, int[,] secondMatrice, ref int[,] finalMatrice)
+        public void MultiplierMatrices(int[,] firstMatrice, int[,] secondMatrice, ref int[,] finalMatrice, out bool multiplied)
         {
             if(firstMatrice.GetLength(1) == secondMatrice.GetLength(0))
             {
-                bool multiplied = true;
+                multiplied = true;
                 for(int row = 0; row <= firstMatrice.GetLength(0)-1; row++)
                 {
                     for(int column = 0; column <= secondMatrice.GetLength(1)-1; column++)
                     {
-
+                        
+                        for(int i = 0; i <= firstMatrice.GetLength(1)-1; i++)
+                        {
+                            finalMatrice[row, column] = firstMatrice[row, column] * secondMatrice[row, column];
+                        }
                     }
                 }
+                
 
+            }
+            else
+            {
+                multiplied = false;
             }
         }
 
@@ -82,6 +91,18 @@ namespace _5TT_ClaudeMael_Matrice
                 concatene = concatene + "\n" + ligne;
             }
             return concatene;
+        }
+
+ 
+        public void LireEntier(string question, out uint result)
+        {
+            Console.WriteLine(question);
+            string nUser = Console.ReadLine();
+            while(!uint.TryParse(nUser, out result))
+            {
+                Console.WriteLine(question);
+                nUser = Console.ReadLine();
+            }
         }
     }
 }
