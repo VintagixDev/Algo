@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\5TT_ClaudeMael_AdressesIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\5TT_ClaudeMael_AdressesIP.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\5TT_ClaudeMael_AdressesIP.AssemblyInfo.cs
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\5TT_ClaudeMael_AdressesIP.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\bin\Debug\net6.0\5TT_ClaudeMael_AdressesIP.exe
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\bin\Debug\net6.0\5TT_ClaudeMael_AdressesIP.deps.json
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\bin\Debug\net6.0\5TT_ClaudeMael_AdressesIP.runtimeconfig.json
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\bin\Debug\net6.0\5TT_ClaudeMael_AdressesIP.dll
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\bin\Debug\net6.0\5TT_ClaudeMael_AdressesIP.pdb
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\5TT_ClaudeMael_AdressesIP.dll
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\refint\5TT_ClaudeMael_AdressesIP.dll
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\5TT_ClaudeMael_AdressesIP.pdb
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\5TT_ClaudeMael_AdressesIP.genruntimeconfig.cache
+C:\Users\230622\Desktop\adressesIP\5TT_ClaudeMael_AdressesIP\obj\Debug\net6.0\ref\5TT_ClaudeMael_AdressesIP.dll
