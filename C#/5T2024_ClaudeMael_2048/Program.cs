@@ -31,13 +31,21 @@ namespace _5T2024_ClaudeMael_2048
             } while (!(gridSize >= 4 && gridSize <= maxGridSize));
 
             methods.CreateGrid(gridSize, out grid);
+            methods.CreateBlock(ref grid);
+            methods.CreateBlock(ref grid);
+            methods.CreateBlock(ref grid);
             Console.WriteLine(methods.ConcateneGrid(grid));
-
-            do
+            methods.MoveBlocks(ref grid);
+            Console.WriteLine(methods.ConcateneGrid(grid));
+            /*do
             {
-                gameState = true;
-                methods.CreateBlock(ref grid);
-            } while (gameState == true);
+                gameState = methods.CreateBlock(ref grid);
+                Console.WriteLine(methods.ConcateneGrid(grid));
+                Console.WriteLine("hasPlace: "+ gameState);
+                gameState = methods.CanMove(grid);
+                Console.WriteLine(gameState);
+
+            } while (gameState == true);*/
 
         }
     }
