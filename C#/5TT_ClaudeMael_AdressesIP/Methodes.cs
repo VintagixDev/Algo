@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,11 +18,12 @@ namespace _5TT_ClaudeMael_AdressesIP
         /// <param name="pointer">pointer est différent (en dessous) de la taille de noms</param>
         /// <param name="noms">tableau contenant tous les noms</param>
         /// <returns></returns>
-        public bool AjouteNom(string nom, int pointer, ref string[] noms)
+        public bool AjouteNom(string nom, ref int pointer, ref string[] noms)
         {
-            if(pointer == noms.Length)
+            if(pointer < noms.Length)
             {
                 noms[pointer] = nom;
+                pointer++;
                 return true;
             }
             return false;
@@ -33,15 +35,15 @@ namespace _5TT_ClaudeMael_AdressesIP
         /// <param name="pointer">pointer est différent (en dessous) du nombre de lignes d'adressesIp</param>
         /// <param name="adressesIp">matrice contenant toute les IPs</param>
         /// <returns></returns>
-        public bool AjouteAdresseIp(byte[] ip, ref int pointer, ref byte[,] adressesIp)
+        public bool AjouteAdresseIp(byte[] ip, int pointer, ref byte[,] adressesIp)
         {
-            if(!(pointer == adressesIp.GetLength(0)))
+            if(pointer < adressesIp.GetLength(0))
             {
-                pointer++;
                 for(int i = 0; i < adressesIp.GetLength(1); i++)
                 {
                     adressesIp[pointer, i] = ip[i];
                 }
+                
                 return true;
             }
             return false;
@@ -97,20 +99,25 @@ namespace _5TT_ClaudeMael_AdressesIP
             }
         }
 
-
+        /// <summary>
+        /// Concatène toute la liste des adresses IP liées avec les utilisateurs concernés
+        /// </summary>
+        /// <param name="noms">Nom de la personne concernée</param>
+        /// <param name="pointer">>pointer est différent (en dessous) du nombre de lignes d'adressesIp</param>
+        /// <param name="adressesIp">Liste d'adresse IP</param>
+        /// <returns></returns>
         public string ConcateneTout(string[] noms, int pointer, byte[,] adressesIp)
         {
-            string message = "";
-            byte[] ip = new byte[3];
+            string message = "Liste d'adresse IP (" + pointer+"):\n\n";
+            byte[] ip = new byte[4];
 
-
-            for(int i = 0; i < pointer; i++)
+            for (int i = 0; i < pointer; i++)
             {
                 for(int j = 0; j < 4; j++)
                 {
                     ip[j] = adressesIp[i, j];
                 }
-                message += noms[pointer] + ": " + ConcateneAdresse(ip) + "\n";
+                message += i + " | " + noms[i] + ": " + ConcateneAdresse(ip) + "\n";
             }
             return message;
         }
