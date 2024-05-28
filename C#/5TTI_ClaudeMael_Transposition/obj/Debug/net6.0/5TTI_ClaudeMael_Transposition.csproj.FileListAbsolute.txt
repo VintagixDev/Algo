@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\bin\Debug\net6.0\5TTI_ClaudeMael_Transposition.exe
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\bin\Debug\net6.0\5TTI_ClaudeMael_Transposition.deps.json
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\bin\Debug\net6.0\5TTI_ClaudeMael_Transposition.runtimeconfig.json
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\bin\Debug\net6.0\5TTI_ClaudeMael_Transposition.dll
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\bin\Debug\net6.0\5TTI_ClaudeMael_Transposition.pdb
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\5TTI_ClaudeMael_Transposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\5TTI_ClaudeMael_Transposition.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\5TTI_ClaudeMael_Transposition.AssemblyInfo.cs
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\5TTI_ClaudeMael_Transposition.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\5TTI_ClaudeMael_Transposition.dll
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\refint\5TTI_ClaudeMael_Transposition.dll
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\5TTI_ClaudeMael_Transposition.pdb
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\5TTI_ClaudeMael_Transposition.genruntimeconfig.cache
+C:\Users\230622\Desktop\Transposition\5TTI_ClaudeMael_Transposition\obj\Debug\net6.0\ref\5TTI_ClaudeMael_Transposition.dll
