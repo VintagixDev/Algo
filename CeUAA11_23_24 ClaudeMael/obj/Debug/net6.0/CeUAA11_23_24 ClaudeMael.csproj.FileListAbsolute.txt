@@ -1,0 +1,14 @@
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\CeUAA11_23_24 ClaudeMael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\CeUAA11_23_24 ClaudeMael.AssemblyInfoInputs.cache
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\CeUAA11_23_24 ClaudeMael.AssemblyInfo.cs
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\CeUAA11_23_24 ClaudeMael.csproj.CoreCompileInputs.cache
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\bin\Debug\net6.0\CeUAA11_23_24 ClaudeMael.exe
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\bin\Debug\net6.0\CeUAA11_23_24 ClaudeMael.deps.json
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\bin\Debug\net6.0\CeUAA11_23_24 ClaudeMael.runtimeconfig.json
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\bin\Debug\net6.0\CeUAA11_23_24 ClaudeMael.dll
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\bin\Debug\net6.0\CeUAA11_23_24 ClaudeMael.pdb
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\CeUAA11_23_24 ClaudeMael.dll
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\refint\CeUAA11_23_24 ClaudeMael.dll
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\CeUAA11_23_24 ClaudeMael.pdb
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\CeUAA11_23_24 ClaudeMael.genruntimeconfig.cache
+C:\Users\230622\Desktop\CeUAA11_23_24 ClaudeMael\obj\Debug\net6.0\ref\CeUAA11_23_24 ClaudeMael.dll
